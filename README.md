@@ -13,8 +13,8 @@ Aplicação para fixar aprendizado em node.js utilizando o express.
 
 
 <img src="print_git/1.png" alt="page-home">
-<img src="print_git/2.png" alt="page-new-idea">
-<img src="print_git/3.png" alt="page-view-idea">
+<img src="print_git/perguntar.png" alt="page-new-idea">
+<img src="print_git/2.png" alt="page-view-idea">
 
 🔧 Tecnologias utilizadas:
 ------------------
