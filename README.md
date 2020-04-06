@@ -34,5 +34,4 @@ Aplicação para fixar aprendizado em node.js utilizando o express.
 Obrigado por chegar até aqui! 🚀
 
 ------------------
-<p align="center">
-Projeto orientado por Mayk Brito - RocketSeat.</p>
+
